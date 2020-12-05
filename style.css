@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+
+*{
+    color: chartreuse;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
